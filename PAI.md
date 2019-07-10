@@ -1,0 +1,15 @@
+## PAI
+
+
+
+1. [Submit first hello-world job](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fdocs%2Fuser%2Ftraining.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138673783&sdata=iKwTXFkN9DUn7PN3GgQbxGVkdK0XYHDyaPcOkXco4rY%3D&reserved=0)（[中文版](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fdocs%2Fzh_CN%2Fuser%2Ftraining.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138683778&sdata=VPXVi3ti0JKcPZhowtfuto9EcDthR9oWbZgOiT7QwoU%3D&reserved=0)）
+
+2. [Use storage](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fdocs%2Fuser%2Fstorage.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138683778&sdata=oQivwk0EYOD5rSiXCwTSR8nF3GAlr1gQC777iUzEwgk%3D&reserved=0)（[中文版](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fdocs%2Fzh_CN%2Fuser%2Fstorage.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138693773&sdata=Iy79u9gf8Qs4%2FfpFTiGjl0ybiEIO%2B0CwbmRH0dNbRu8%3D&reserved=0)）
+
+3. [Troubleshooting](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fdocs%2Fuser%2Ftroubleshooting_job.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138693773&sdata=CC37mTxyK%2Fn%2Fr9Hf4icZuJ23yHqmCVpNXg66Dhla1Q0%3D&reserved=0)（[中文版](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fdocs%2Fzh_CN%2Fuser%2Ftroubleshooting_job.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138703773&sdata=ZE%2F8lZc5IuiQsczkAjLOGlLpshTZzh0IPqIxXteo3eE%3D&reserved=0)）
+
+4. [Client tool](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fpai%2Fblob%2Fmaster%2Fcontrib%2Fpai_vscode%2FVSCodeExt.md&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138703773&sdata=53oQbh%2Biu82PQSjkY0LXcljxobN4npHhO9Et2a6Uw7g%3D&reserved=0)
+
+ 
+
+OpenPAI Cluster: [http://10.151.40.179:9286/home.html](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2F10.151.40.179%3A9286%2Fhome.html&data=02|01|Wutao.Lin%40microsoft.com|66da1b3ca1614bc7953108d704416012|72f988bf86f141af91ab2d7cd011db47|1|0|636982551138713767&sdata=Ohfv8ZLmTILOY63BpmuUEYMR%2FeCVxjFUy0WybxiUstQ%3D&reserved=0)
